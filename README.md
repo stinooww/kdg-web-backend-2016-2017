@@ -186,8 +186,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 3. Borret Sander
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: sander.borret@student.kdg.be
+	- GitHub: https://github.com/ssssssander/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -330,8 +330,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 7. De Ridder Stijn
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: stijn.deridder.1@student.kdg.be	
+	- GitHub: https://github.com/DeRidderStijn/DeRidderStijnOplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -582,8 +582,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 14. Moerloos Phedra
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: phedra.moerloos@student.kdg.be
+	- GitHub: https://github.com/PhedraMoerloos/web-backend-oplossingen-2
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -602,7 +602,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
+			<td>1</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -690,8 +690,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 17. Op de Beeck Jesse
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- jesse.opdebeeck@student.kdg.be
+	- https://github.com/jessekdg/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -762,8 +762,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 19. Penu Andreea
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: andreea.penu@student.kdg.be
+	- GitHub: https://github.com/AndreeaPenu/PenuAndreeaOplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -798,8 +798,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 20. Pereira Jordy
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: jordy.pereira@student.kdg.be
+	- GitHub: https://github.com/Woozsh/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -1122,8 +1122,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 29. Vermeire Adriaan
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: adriaan.vermeire@student.kdg.be
+	- GitHub: https://github.com/adriaanvermeire/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -1230,8 +1230,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 32. De Meester Arteau 
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: arteau.demeester@student.kdg.be
+	- GitHub: https://github.com/Arteau/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
