@@ -798,8 +798,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 20. Pereira Jordy
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: jordy.pereira@student.kdg.be
+	- GitHub: https://github.com/Woozsh/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
