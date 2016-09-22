@@ -1050,8 +1050,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 27. Vercammen Dieter
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: dieter.vercammen@student.kdg.be
+	- GitHub: https://github.com/DieterVercammen/Oplossingen-web-backend
 	- Feedback <table>
 	<thead>
 		<tr>
