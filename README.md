@@ -331,7 +331,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 7. De Ridder Stijn
 	- email: stijn.deridder.1@student.kdg.be	
-	- GitHub: https://github.com/DeRidderStijn/DeRidderStijnOplossingen
+	- GitHub: https://github.com/DeRidderStijn/DeRidderStijnOplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
