@@ -1264,3 +1264,75 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 		</tr>
 	</tbody>
 </table>
+
+32. Luit Robbert 
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
+	- Feedback <table>
+	<thead>
+		<tr>
+			<th>22/09</th>
+			<th>06/10</th>
+			<th>13/10</th>
+			<th>20/10</th>
+			<th>27/10</th>
+			<th>24/11</th>
+			<th>01/12</th>
+			<th>08/12</th>
+			<th>15/12</th>
+			<th>22/12</th>
+			<th>12/1</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+33. Matthieu Pieter 
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
+	- Feedback <table>
+	<thead>
+		<tr>
+			<th>22/09</th>
+			<th>06/10</th>
+			<th>13/10</th>
+			<th>20/10</th>
+			<th>27/10</th>
+			<th>24/11</th>
+			<th>01/12</th>
+			<th>08/12</th>
+			<th>15/12</th>
+			<th>22/12</th>
+			<th>12/1</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
