@@ -186,8 +186,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 3. Borret Sander
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: sander.borret@student.kdg.be
+	- GitHub: https://github.com/ssssssander/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -510,8 +510,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 12. Lambrechts Tyas
-	- email: tyas.lambrechts@student.kdg.be
-	- GitHub: https://github.com/homeforce/BackendOplossingen
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -618,8 +618,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 15. Moerloos Thessa
-	- email: thessa.moerloos@student.kdg.be
-	- GitHub: https://github.com/ThessaMoerloos/web-backend-oplossingen
+	- email: e-mailadres in de vorm van @student.kdg.be
+	- GitHub: link naar de repo met je oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
@@ -638,7 +638,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td>1</td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
