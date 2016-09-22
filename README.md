@@ -1230,8 +1230,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 32. De Meester Arteau 
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: arteau.demeester@student.kdg.be
+	- GitHub: https://github.com/Arteau/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
